@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Context>
+	<Resource 
+		name="jdbc/model2" 
+		auth="Container" 
+		type="javax.sql.DataSource"
+		driverClassName="com.mysql.cj.jdbc.Driver" 
+		username="itwillbs8" 
+		password="itwillbs8030909"
+		url="jdbc:mysql://itwillbs8.cafe24.com:3306/itwillbs8"
+		maxWait="5000" 
+	/>
+</Context>
+
+
+

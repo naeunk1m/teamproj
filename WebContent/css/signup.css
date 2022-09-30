@@ -1,0 +1,136 @@
+@charset 'utf-8';
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+ul,ol {
+	list-style: none;
+}
+a {
+	text-decoration: none;
+}
+
+/* header */
+
+
+
+/* sign up */
+section h1{
+  font-size: 48px;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+form {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  width: 614px;
+  /* margin: 0 auto; */
+  /* padding: 0px; */
+  text-decoration: none;
+  font-family:sans-serif;
+  /* display: inline-block; */
+}
+
+
+form .textForm {
+  border-bottom: 2px solid #adadad;
+  margin: 30px auto;
+  padding: 10px 10px;
+  width : 600px;
+  /* text-align: center; */
+}
+
+
+
+form .textFormgenre{
+	width: 80%; height: 200px; font-size: 25px; margin-left: auto; margin-right: auto; border: 0;border-radius: 15px; outline: none; text-align: center; background-color: rgb(151, 161, 194);
+}
+
+
+form #u_id {
+  width : 460px;
+  border:none;
+  outline:none;
+  /* color: #636e72; */
+  font-size:16px;
+  height:25px;
+  background: none;
+}
+
+.u_pw {
+  width: 100%;
+  border:none;
+  outline:none;
+  color: #636e72;
+  font-size:16px;
+  height:25px;
+  background: none;
+}
+
+.birth {
+  width: 100%;
+  border:none;
+  outline:none;
+  color: #636e72;
+  font-size:16px;
+  height:25px;
+  background: none;
+}
+
+.u_nm {
+  width: 100%;
+  border:none;
+  outline:none;
+  color: #636e72;
+  font-size:16px;
+  height:25px;
+  background: none;
+}
+
+form .email {color: #000000;font-size:16px;height:25px;background: none;width: 200px;height: 32px;font-size: 15px;border: 0;border-radius: 15px;outline: none;
+background-color: rgb(233, 233, 233);padding-left: 15px;margin-top: 5px;
+}
+
+form  .email2 {color: #636e72;font-size:16px;height:25px;background: none;width: 200px;height: 32px;font-size: 15px;border: 0;border-radius: 15px;outline: none;background-color: rgb(233, 233, 233);padding-left: 15px;margin-top: 5px;
+}
+
+.cellphoneNo {
+  width: 450px;
+  border:none;
+  outline:none;
+  color: #636e72;
+  font-size:16px;
+  height:25px;
+  background: none;
+}
+
+.btn {
+  position:relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  width:60%;
+  height:40px;
+  background: linear-gradient(125deg,#81ecec,#6c5ce7,#81ecec);
+  background-position: left;
+  background-size: 200%;
+  color:white;
+  font-weight: bold;
+  border:none;
+  cursor:pointer;
+  transition: 0.4s;
+  display:inline;
+}
+#btn1{background:white; border: none; cursor:pointer; padding:7px; border-radius: 5px;}
+#btn2{background:white; border: none; cursor:pointer; padding:7px; border-radius: 5px;}
+.btn:hover {
+  background-position: right;
+}
