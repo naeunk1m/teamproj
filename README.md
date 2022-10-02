@@ -21,7 +21,7 @@
 
 3. 회의록<br>
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4e2466b9-8241-4134-934e-1eeb729e1f0d/Untitled.png)
+    ![Untitled (1)](https://user-images.githubusercontent.com/107620483/193442043-ef656421-3152-4aad-beea-4f5424c4d66b.png)
     
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/887489ea-c641-4c3d-bf21-03f1d8241dc3/Untitled.png)
 
