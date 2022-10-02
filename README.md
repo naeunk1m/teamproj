@@ -10,7 +10,7 @@
 2. 프로젝트 소개<br>
     📌 기획의도: 독자적인 영화 예매 및 결제 서비스를 구축하여 고객들의 관심에 알맞은 영화 정보를 제공한다. 기존의 복잡한 영화예매사이트와 달리 직관적인 UI를 통해 다양한 연령층의 접근성을 최대화한다.<br>
     📌 개발일정 : 2022.08.29 ~ 2022.09.30<br> 
-        <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3506f913-a8a4-4d48-b5b7-510391342e21%2FUntitled.png?table=block&id=7029ee8a-4ee8-4aac-b7cd-911cb6ea448f&spaceId=ed652dae-b4de-4a7b-990c-59f30b8976a1&width=2000&userId=54c975e3-f0c5-445f-b628-a22bbb2af781&cache=v2"></img><br>
+        ![Untitled](https://user-images.githubusercontent.com/107620483/193442008-bf88a789-a86d-4bf1-8103-b655193fc541.png)
      
     📌 1주차 ⇒ 아이디어 회의 / 자료 수집 / 요구사항 분석 및 설계, 요구사항 정의서 작성 / DB 테이블 설계 및 작성<br>
     📌 2주차 ⇒ 1주차 회의 후 피드백 취합 / 화면 구성 및 템플릿 디자인 회의 / 화면 구조 정리<br>
