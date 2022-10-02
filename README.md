@@ -29,7 +29,7 @@
 <br>
 4. 개발환경 소개<br>
    개발언어 <br>
-   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>
+   
 
 <br>
 5. 설계 단계 소개<br>
