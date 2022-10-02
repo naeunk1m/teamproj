@@ -23,7 +23,7 @@
     
     ![Untitled (1)](https://user-images.githubusercontent.com/107620483/193442043-ef656421-3152-4aad-beea-4f5424c4d66b.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/887489ea-c641-4c3d-bf21-03f1d8241dc3/Untitled.png)
+    ![Untitled (2)](https://user-images.githubusercontent.com/107620483/193442071-084dfd46-10e3-455c-bdbc-274cbf94260e.png)
 
 
 
