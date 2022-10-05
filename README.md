@@ -20,11 +20,11 @@
 <br>
 <br>
 3. 회의록<br>
-    
-    ![Untitled (1)](https://user-images.githubusercontent.com/107620483/193442043-ef656421-3152-4aad-beea-4f5424c4d66b.png)
-    
-    ![Untitled (2)](https://user-images.githubusercontent.com/107620483/193442071-084dfd46-10e3-455c-bdbc-274cbf94260e.png)
 
+    ![minutes1](./images/minutes1.png)
+    ![minutes2](./images/minutes2.png)
+    
+   
 
 <br>
 4. 개발환경 소개<br>
